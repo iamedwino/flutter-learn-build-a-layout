@@ -21,3 +21,4 @@ This is just the beginning! Next, I’ll be diving deeper into Flutter’s advan
 
 #Flutter #Dart #UI #MobileDevelopment #LearningInPublic #DevJourney
 
+![image alt](https://github.com/iamedwino/flutter-learn-build-a-layout/blob/master/Layout.PNG?raw=true)
